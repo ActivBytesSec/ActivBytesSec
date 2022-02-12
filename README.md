@@ -2,4 +2,4 @@
 - 👋 Hi, We are @ActivBytesSec
 - 👀 We are an integrated IT consulting and solutions firm dedicated to delivering effective 360º solutions to complex business challenges facing different industries.
       Every partner and every problem are unique to us.
-- 📫 [Contac Us](https://www.activbytes.com/contact/)
+- 📫 [Contact Us](https://www.activbytes.com/contact/)
